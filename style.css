@@ -1,0 +1,37 @@
+
+/*.header-top-image {
+	background-image: url('./img/avtozapchasti.png') ;
+	background-repeat: no-repeat;
+	background-size: contain;
+}*/
+.header-top {
+	background: #ecf9fa;
+	background-image: url('./img/avtozapchasti.png') ;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.main-image img {
+    max-width: 100%;
+	height: auto;
+}
+.auto img {
+    max-width: 100%;
+	height: auto;
+}
+.description {
+	font-size: 100px;
+	padding: 20px 0px;
+}
+.description > span > span {
+	text-transform: uppercase;
+}
+.caption {
+	font-size: 180px;
+	font-weight: 500;
+	font-stretch: ultra-expanded;
+	padding: 20px;
+}
+.contacts {
+	font-size: 100px;
+	padding: 20px;
+}
